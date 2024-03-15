@@ -1,0 +1,23 @@
+# Column Names and Descriptions for County Data Set
+
+- **id** - Unique identifier for a house.
+- **date** - The date when the house was sold.
+- **price** - The price of the house, serving as the prediction target.
+- **bedrooms** - Number of bedrooms in the house.
+- **bathrooms** - Number of bathrooms in the house.
+- **sqft_living** - Square footage of the home's interior living space.
+- **sqft_lot** - Square footage of the land lot.
+- **floors** - Total floors (levels) in the house.
+- **waterfront** - Indicates if the house has a view of the waterfront.
+- **view** - Indicates if the house has been viewed.
+- **condition** - The condition of the house overall.
+- **grade** - Overall grade given to the housing unit, based on the King County grading system.
+- **sqft_above** - Square footage of the house excluding the basement.
+- **sqft_basement** - Square footage of the basement.
+- **yr_built** - The year the house was built.
+- **yr_renovated** - The year the house was renovated.
+- **zipcode** - ZIP code area of the house.
+- **lat** - Latitude coordinate of the house.
+- **long** - Longitude coordinate of the house.
+- **sqft_living15** - Square footage of interior housing living space for the nearest 15 neighbors.
+- **sqft_lot15** - Square footage of the land lots for the nearest 15 neighbors.

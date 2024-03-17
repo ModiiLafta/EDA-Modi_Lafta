@@ -29,10 +29,11 @@ Data Source
 
 The dataset employed in this analysis is illustrative, designed to mimic real-world housing data scenarios. For actual analyses, similar data can typically be sourced from property listing platforms or real estate data providers, with guidance provided within the notebook on data handling.
 ## Conclusion/Outcome
-
 The comprehensive analysis culminates in a selection of properties meticulously chosen to meet the stakeholder's distinct preferences and budgetary constraints. The final section of the notebook presents a summary of findings and tailored recommendations, demonstrating the effectiveness of data analysis in personalized home selection.
+
+
 ------------
-# note
+# copyright notes
 This map is provided by Map Services, with data available from the U.S. Geological Survey, National Geospatial Program.
 The original code source can be found here: https://plotly.com/python/mapbox-layers/.
 It has been modified to ensure functionality within my code.

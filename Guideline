@@ -1,0 +1,24 @@
+### Table of Content
+
+| Section                                        | Description                                                                                   |
+|------------------------------------------------|-----------------------------------------------------------------------------------------------|
+| **Project Overview**                           |                                                                                               |
+| 1. [Introduction](#introduction)               | Brief description of the project and its objectives.                                          |
+| 2. [Data Source](#data-source)                 | Explanation of where the data comes from and which data points are used.                      |
+| **Data Cleaning and Preparation**             |                                                                                               |
+| 1. [Data Import](#data-import)                 | Steps for importing the data into the notebook.                                               |
+| 2. [Initial Data Inspection](#initial-data-inspection) | Overview of the data and initial checks for completeness and accuracy.                        |
+| 3. [Data Cleaning](#data-cleaning)             | - Removing unnecessary or incorrect data<br>- Correcting data types<br>- Handling missing values |
+| **Analysis**                                   |                                                                                               |
+| 1. [Waterfront Property Analysis](#waterfront-property-analysis) | Examination and analysis of properties with waterfront access.                                 |
+| 2. [sqft_lot15 Investigation](#sqft_lot15-investigation) | Analysis of lot sizes and their impact.                                                       |
+|   2.1 [Reduction to Relevant Lot Sizes](#reduction-to-relevant-lot-sizes) | Focusing on properties under a specific lot size for analysis.                                |
+| 3. [Zipcode Analysis](#zipcode-analysis)       | Selection and analysis of specific postal code areas.                                         |
+| 4. [Price Investigation](#price-investigation) | Analysis of property prices and selection based on budget.                                    |
+|   4.1 [Removal of Smaller Homes](#removal-of-smaller-homes) | Excluding properties with too few bedrooms from the analysis.                                 |
+| **Presentation of Findings**                   |                                                                                               |
+| 1. [Summary of Insights](#summary-of-insights) | Highlighting key findings and recommendations.                                                |
+| 2. [Potential Interests for Mr. Sander](#potential-interests-for-mr-sander) | Specific recommendations or points of interest for the stakeholder.                           |
+| **Conclusion**                                 |                                                                                               |
+| 1. [Conclusions](#conclusions)                 | Summary of conclusions drawn from the analysis.                                               |
+| 2. [Further Steps](#further-steps)             | Suggestions for further analysis or aspects to consider.                                      |
